@@ -1,6 +1,6 @@
 Name     : jdk-scalastyle-maven-plugin
 Version  : 0.8.0
-Release  : 1
+Release  : 2
 URL      : http://repo1.maven.org/maven2/org/scalastyle/scalastyle-maven-plugin/0.8.0/scalastyle-maven-plugin-0.8.0.jar
 Source0  : http://repo1.maven.org/maven2/org/scalastyle/scalastyle-maven-plugin/0.8.0/scalastyle-maven-plugin-0.8.0.jar
 Source1  : http://repo1.maven.org/maven2/org/scalastyle/scalastyle-maven-plugin/0.8.0/scalastyle-maven-plugin-0.8.0.pom
